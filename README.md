@@ -5,3 +5,5 @@ Repositório criado para o Desafio de Projeto.
 [Link de acesso para o DIO](https://www.dio.me/)
 <br/>
 [Certificado Introdução ao Git e ao GitHub](https://hermes.digitalinnovation.one/certificates/1E917A09.pdf)
+<br/>
+[Repositório de Exercícios Java](https://github.com/GustavoBauny/java-git-dio)
